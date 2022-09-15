@@ -12,5 +12,5 @@ Create a new enviornment for project
 ```
 conda create -p venv python==3.7 -y
 ```
-#O
+
 
