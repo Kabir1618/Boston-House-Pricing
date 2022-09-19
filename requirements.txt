@@ -3,4 +3,4 @@ sklearn
 seaborn
 numpy
 Flask
-gunicorn
+gunicorn 
